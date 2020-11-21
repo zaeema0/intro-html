@@ -12,3 +12,10 @@ I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
 Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+<!doctypehtml>
+<html>
+  <main>
+    <h1>Hello there!</h1>
+    <img src="https://i.pinimg.com/736x/50/df/34/50df34b9e93f30269853b96b09c37e3b.jpg" alt="a pic">
+    <figcaption> a nature picture</figcaption>
+  </main>
